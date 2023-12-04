@@ -1,8 +1,34 @@
 /*to fix that the navbar does not cover other content when fixed-top */
 body::before {
+    font-family: "Barlow", sans-serif;
+    line-height: 1.7;
+    color: #516171;
     display: block;
     content: '';
     height: 60px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700 !important;
+    color: #092032;
+}
+
+a {
+    color: #092032;
+}
+
+img {
+    width: 100%;
+}
+
+/*NAVBAR*/
+.top-bar {
+    background-color: #ff4d29;
+}
+
+.top-bar p {
+    margin-bottom: 0;
+    display: inline-block;
 }
 
 /*to give the map and width and height*/
