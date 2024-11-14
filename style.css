@@ -25,6 +25,7 @@ img {
 .top-bar {
     background-color: #ff4d29;
     position: fixed;
+    top: 0;
 }
 
 .top-bar p {
