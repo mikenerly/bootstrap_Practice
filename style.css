@@ -46,7 +46,7 @@ img {
 }
 
 .navbar {
-    padding-top: 60px; /* Ensure content doesn't overlap with the fixed nav */
+    padding-top: 36px; /* Ensure content doesn't overlap with the fixed nav */
     padding: 20px;
 }
 
