@@ -44,6 +44,11 @@ img {
     display: inline-block;
 }
 
+.navbar {
+    padding-top: 60px; /* Ensure content doesn't overlap with the fixed nav */
+    padding: 20px;
+}
+
 /*to give the map and width and height*/
 #map {
     width: 100%;
