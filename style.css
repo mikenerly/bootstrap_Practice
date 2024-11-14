@@ -31,6 +31,14 @@ img {
     transition: top 0.3s;
 }
 
+.top-bar .container .row {
+    margin: 0;
+}
+
+.text-light {
+    color: #fff !important;
+}
+
 .top-bar p {
     margin-bottom: 0;
     display: inline-block;
