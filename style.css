@@ -24,6 +24,7 @@ img {
 /*NAVBAR*/
 .top-bar {
     background-color: #ff4d29;
+    position: fixed;
 }
 
 .top-bar p {
