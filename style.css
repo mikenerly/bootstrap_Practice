@@ -26,6 +26,9 @@ img {
     background-color: #ff4d29;
     position: fixed;
     top: 0;
+    left: 0;
+    z-index: 1000;
+    transition: top 0.3s
 }
 
 .top-bar p {
